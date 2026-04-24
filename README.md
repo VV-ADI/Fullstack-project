@@ -1,4 +1,4 @@
-# Containment Zone Alerting Application
+# Charmender Zone
 
 A full-stack **MERN** application for location-based public safety that tracks user location in real-time, displays containment/restricted zones on an interactive map, and triggers alerts when a user approaches or enters a restricted area.
 
@@ -24,7 +24,8 @@ A full-stack **MERN** application for location-based public safety that tracks u
 ## Project Structure
 
 ```
-containment-zone-app/
+charmender-zone/
+├── client/                          # React frontend
 ├── client/                          # React frontend
 │   ├── src/
 │   │   ├── components/
@@ -63,7 +64,7 @@ containment-zone-app/
 ### 1. Clone the repository
 
 ```bash
-cd containment-zone-app
+cd charmender-zone
 ```
 
 ### 2. Backend Setup

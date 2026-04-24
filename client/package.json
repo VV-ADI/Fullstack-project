@@ -1,5 +1,5 @@
 {
-  "name": "containment-zone-client",
+  "name": "charmender-zone-client",
   "private": true,
   "version": "1.0.0",
   "type": "module",
