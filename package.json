@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-project",
+  "version": "1.0.0",
+  "description": "Root package to manage client and server",
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "install:server": "npm install --prefix server",
+    "install:client": "npm install --prefix client",
+    "install:all": "npm run install:server && npm run install:client"
+  }
+}
